@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Fwu2dtOH+ke/XyJIWMqCmgak8/R7E+hP1TuJUy4oPhNFzmGGtejijHM+cZf6zhqgqNtltyys++n3w717C7Dyg==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\UserList\\Service_API\\Service_API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lffer\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
